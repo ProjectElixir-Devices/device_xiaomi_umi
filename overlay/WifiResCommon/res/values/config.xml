@@ -20,6 +20,9 @@
     <!-- Wifi driver supports 6GHz band for softap -->
     <bool name="config_wifiSoftap6ghzSupported">true</bool>
 
+    <!-- boolean indicating whether the WiFi chipset has 6GHz band support -->
+    <bool translatable="false" name ="config_wifi6ghzSupport">true</bool>
+    
     <!-- Wifi driver Automatic channel selection (ACS) for softap to include DFS channels -->
     <bool name="config_wifiSoftapAcsIncludeDfs">true</bool>
 

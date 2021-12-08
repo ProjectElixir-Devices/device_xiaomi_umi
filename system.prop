@@ -43,3 +43,5 @@ ro.elixir.maintainer=p4042
 ro.elixir.maintainer.username=p4042
 ro.elixir.group.url=t.me/fiimerom
 
+# Pre-rendering
+ro.vendor.perf.scroll_opt=true

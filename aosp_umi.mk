@@ -17,7 +17,12 @@ $(call inherit-product, vendor/aosp/config/common.mk)
 # Gapps
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
-TARGET_INCLUDE_LIVE_WALLPAPERS := false
+
+# ElixirOS OFFICIAL TAG
+Elixir_MAINTAINER := p4042
+IS_PHONE := true
+CUSTOM_BUILD_TYPE := OFFICIAL
+TARGET_INCLUDE_LIVE_WALLPAPERS := false 
 
 PRODUCT_NAME := aosp_umi
 PRODUCT_DEVICE := umi

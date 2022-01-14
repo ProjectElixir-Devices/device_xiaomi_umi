@@ -26,3 +26,13 @@ ro.vendor.radio.features_common=3
 
 # Vendor
 ro.vendor.qti.va_aosp.support=1
+
+
+# ElixirOS OFFICIAL TAG 
+org.elixir.device.name=Mi 10 
+ro.elixir.device.name=Mi 10 
+ro.elixir.device=umi
+ro.elixir.maintainer=p4042
+ro.elixir.maintainer.username=p4042
+ro.elixir.group.url=t.me/fiimerom
+
